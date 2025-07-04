@@ -2,5 +2,6 @@ print('Hello git e PyCharm')
 print('\n\n')
 
 
-message = 'testando'
+message = 'Oi'
+teste = ''
 print(message)
